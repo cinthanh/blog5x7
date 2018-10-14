@@ -10,10 +10,10 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+// php artisan make:controller Abi/HomeController
 Route::get('/', function () {
     return view('welcome');
 });
 Route::group(['prefix' => 'abi', 'middleware' => 'web'],function() {
-
+    Route::get('/','Abi\HomeController@index')->name('abi.home');
 });

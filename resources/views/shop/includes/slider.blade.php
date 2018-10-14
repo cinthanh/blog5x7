@@ -5,7 +5,8 @@
                 <!-- SLIDE 1 -->
                 <li data-transition="slidehorizontal" data-slotamount="5" data-masterspeed="700">
                     <!-- MAIN IMAGE -->
-                    <img src="sources/images/slider/slider-img1.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                    {{--<img src="sources/images/slider/slider-img1.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">--}}
+                    <img src="sources/images/abi/slide1.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                     <!-- LAYERS -->
                     <!-- LAYER NR. 1 -->
                     <div class="tp-caption very_big_white skewfromrightshort fadeout" data-x="center" data-y="100" data-speed="500" data-start="1200"
@@ -35,7 +36,7 @@
                     <!-- LAYER NR. 1 -->
                     <div class="tp-caption white_heavy_60 customin ltl tp-resizeme" data-x="310" data-y="140" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
                          data-speed="1200" data-start="700" data-easing="Power4.easeOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1"
-                         data-endelementdelay="0.1" data-endspeed="1000" data-endeasing="Power4.easeIn" style=" font-size:70px; font-weight:800; color:#333;">GREAT LOOKS </div>
+                         data-endelementdelay="0.1" data-endspeed="1000" data-endeasing="Power4.easeIn" style=" font-size:70px; font-weight:800; color:#333;">GREAT LOOKS ABI</div>
 
                     <!-- LAYER NR. 2 -->
                     <div class="tp-caption black_thin_blackbg_30 customin ltl tp-resizeme" data-x="310" data-y="220" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"

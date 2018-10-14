@@ -53,6 +53,7 @@
 
     <!-- style CSS -->
     <link rel="stylesheet" type="text/css" href="sources/css/style.css" media="all">
+    <link rel="stylesheet" type="text/css" href="sources/css/com.css" media="all">
     @yield('my-links')
 </head>
 
@@ -424,6 +425,7 @@
 
 <!-- countdown js -->
 <script type="text/javascript" src="sources/js/countdown.js"></script>
+<script type="text/javascript" src="sources/js/abi-script.js"></script>
 
 <!-- Revolution Slider -->
 <script type="text/javascript">

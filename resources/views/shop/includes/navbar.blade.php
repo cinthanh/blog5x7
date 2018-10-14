@@ -15,7 +15,198 @@
                             <h3>Categories</h3>
                         </div>
                         <div class="mega-menu-category" style="display: none">
+                            <!-- Navbar -->
                             <ul class="nav">
+
+                                <li>
+                                    <a href="#">
+                                        <i class="icon fa fa-pie-chart fa-fw"></i> Abi Bánh Tráng ngon</a>
+                                    <div class="wrap-popup column1">
+                                        <div class="popup">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <ul class="nav">
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Abi tỏi</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Abi Bơ</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Abi Sa tế</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Abi Khô Gà</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Abi Da Heo</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Abi Khoai Môn</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Abi Mực</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Abi Ngon </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Abi Bell & Howell</span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="shop_grid.html">
+                                        <i class="icon fa fa-apple fa-fw"></i> Apple Store</a>
+                                    <div class="wrap-popup column1">
+                                        <div class="popup">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <ul class="nav">
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Canon</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Nikon</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Olympus</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>ALPA</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Bolex</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Samsung </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Panasonic</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Thomson </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop_grid.html">
+                                                                <span>Bell & Howell</span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nosub">
+                                    <a href="#">
+                                        <i class="icon fa fa-location-arrow fa-fw"></i> Car Electronic</a>
+                                </li>
+                                <li>
+                                    <a href="shop_grid.html">
+                                        <i class="icon fa fa-headphones fa-fw"></i> Headphones</a>
+                                    <div class="wrap-popup column1">
+                                        <div class="popup">
+                                            <ul class="nav">
+                                                <li>
+                                                    <a href="shop_grid.html">
+                                                        <span>Envent Stereo</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="shop_grid.html">
+                                                        <span>Sennheiser</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="shop_grid.html">
+                                                        <span>Philips</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="shop_grid.html">
+                                                        <span>Sony</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="shop_grid.html">
+                                                        <span>Avantree</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="shop_grid.html">
+                                                        <span>Bajaao</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="shop_grid.html">
+                                                        <span>FiiO</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="shop_grid.html">
+                                                        <span>Audio-Technica</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="shop_grid.html">
+                                                        <span>LUXA2</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="shop_grid.html">
+                                                        <span>Geekria</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nosub">
+                                    <a href="shop_grid.html">
+                                        <i class="icon fa fa-lightbulb-o fa-fw"></i> Lights &amp; Lighting</a>
+                                </li>
+                            </ul>
+                            <!-- end nav -->
+                            {{--<ul class="nav">
                                 @foreach($menu as $parents => $children)
                                     @php $parent = explode('::',$parents) @endphp
                                 <li @if($children[0]->id_sub == '') class="nosub" @endif>
@@ -42,7 +233,7 @@
                                     @endif
                                 </li>
                                 @endforeach
-                            </ul>
+                            </ul>--}}
                         </div>
                     </div>
                 </div>
