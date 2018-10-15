@@ -65,8 +65,8 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
-
+//    'timezone' => 'UTC',
+    'timezone' => 'Asia/Ho_Chi_Minh', // change time_zone
     /*
     |--------------------------------------------------------------------------
     | Application Locale Configuration
